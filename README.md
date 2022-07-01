@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omer-coder
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full-stack with firebase
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me 0559288200
 
 <!---
